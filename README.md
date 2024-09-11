@@ -1,4 +1,6 @@
 # handson3
+### answer are in hadnson on 3 pdf
+
 
 output for graph is 
 ![Figure_2](https://github.com/user-attachments/assets/276d442d-443b-436a-a5d2-965da0d6e3e0)
